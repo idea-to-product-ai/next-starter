@@ -11,7 +11,14 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.1"
+    "next": "15.2.1",
+    "@shadcn/ui": "^0.0.4",
+    "@stripe/react-stripe-js": "^3.1.1",
+    "@stripe/stripe-js": "^5.6.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "next-auth": "^4.24.11",
+    "lucide-react": "^0.439.0",
+    "stripe": "^17.6.0"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -22,6 +29,8 @@
     "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
-    "@eslint/eslintrc": "^3"
+    "@eslint/eslintrc": "^3",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35"
   }
 }

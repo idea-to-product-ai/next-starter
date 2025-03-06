@@ -1,0 +1,1 @@
+export { POST } from '@/packages/pay/api/stripe/webhook/route';

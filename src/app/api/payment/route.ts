@@ -1,0 +1,1 @@
+export { GET, POST } from '@/packages/pay/api/payment/route';

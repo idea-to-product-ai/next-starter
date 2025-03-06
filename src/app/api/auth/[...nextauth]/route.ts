@@ -1,0 +1,1 @@
+export { GET, POST } from '@/packages/auth/api/auth/[...nextauth]/route';
