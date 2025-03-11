@@ -35,10 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
 ## 环境变量配置
 
 项目本地运行需要在根目录创建 `.env.local` 文件，配置以下环境变量:
 
 ### Stripe 支付相关
-
